@@ -1,5 +1,8 @@
 # TubeSage – Initial Setup & API Key Configuration
 
+## Repository
+GitHub Repository: [TubeSage](https://github.com/itselliott/TubeSage)
+
 ## Prerequisites
 Before running TubeSage, ensure you have the following installed on your system:
 - Python 3.8 or later  
@@ -10,8 +13,8 @@ Before running TubeSage, ensure you have the following installed on your system:
 ## 1️⃣ Clone the Repository
 Open a terminal and run:
 ```bash
-git clone https://github.com/yourusername/tubesage.git
-cd tubesage
+git clone https://github.com/itselliott/TubeSage.git
+cd TubeSage
 ```
 
 ---
@@ -82,4 +85,3 @@ This will launch the **TubeSage GUI**, allowing you to analyze YouTube videos.
 ---
 
 Now you can set up TubeSage independently and start analyzing YouTube videos.
-
